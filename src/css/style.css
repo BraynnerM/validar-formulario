@@ -7,11 +7,12 @@ body {
     align-items: center;
     height: 100vh;
     color: #ffffff;
+    background-image: url(../image/bg-repeat.jpg);
+    background-position: 100%;
 }
 
 main {
-    background-image: url(../image/bg-repeat.jpg);
-    background-position: center;
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,8 +78,9 @@ main {
 
 .caixa-texto.mensagem {
     height: 100px;
-    padding-bottom: 80px;
+    padding-bottom: 70px;
     margin-bottom: 7px;
+    font-family: sans-serif;
 }
 
 .info-complementar {
@@ -96,10 +98,10 @@ main {
     margin-top: 36px;
     width: 298px;
     height: 41px;
-    border-radius: 5px;
-    padding: 12px 0 0 127px;
+    border-radius: 5px;    
     font-size: 15px;
     font-weight: 700;
+    border: 0;
 }
 
 .alerta {

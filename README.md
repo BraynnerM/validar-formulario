@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [Github](https://github.com/BraynnerM/validar-formulario)
--  URL do site no Github Pages: [Validação de Formulário](https://braynnerm.github.io/validar-formulario/)
+-  URL do site no Github Pages: [Huddle Landing Page](https://braynnerm.github.io/validar-formulario/)
 
 ## Meu processo
 
